@@ -1,0 +1,118 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,700,300);
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/nanummyeongjo.css);
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+
+$sansFontFamily: "Open Sans", Helvetica, Arial, "Nanum Gothic", sans-serif;
+$serifFontFamily: Georgia, "Times New Roman", Times, "Nanum Myeongjo", serif;
+$monoFontFamily: Menlo, Monaco, "Courier New", "Nanum Gothic Coding", monospace;
+
+html {
+  font-family: $sansFontFamily!important;
+}
+code, kbd, pre, samp {
+  font-family: $monoFontFamily!important;
+}
+body {
+  font-family: $sansFontFamily!important;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: $sansFontFamily!important;
+}
+
+#sidebar {
+  position: static;
+  padding-top: 80px;
+}
+.profile {
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+}
+
+@media screen and (min-width: 992px) {
+  #sidebar {
+    width: 213px;
+    position: fixed; /* Undo the static from mobile first approach */
+  }
+  #content {
+    padding-top: 60px;
+  }
+  .profile {
+    text-align: left;
+  }
+}
+@media screen and (min-width: 1200px) {
+  /* Widen the fixed sidebar again */
+  #sidebar {
+    width: 263px;
+  }
+}
+
+
+
+.category {
+  border-bottom: 1px solid #eee;
+}
+
+.work_img {
+  border: 1px solid lightgray;
+}
+
+.carousel {
+  border: 1px solid lightgray;
+}
+
+.carousel-control {
+  background: none!important;
+}
+
+.nav-pills>li>a {
+  border-radius: 0px;
+  border-left: 3px solid transparent;
+}
+.nav-pills>li.active>a {
+  color: #428bca;
+  background-color: #fff;
+  border-left: 3px solid #428bca;
+}
+.nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+  color: #428bca;
+  background-color: #eee;
+}
+
+@media screen and (max-width: 991px) {
+  .nav-pills>li>a:hover {
+    color: #428bca;
+    background-color: transparent!important;
+  }
+}
+
+
+
+.unstyled_link, .unstyled_link:hover, .unstyled_link:visited {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+
+@media print {
+  .resume {
+    font-size: 10pt;
+    .name {
+      font-size: 20pt;
+    }
+    .category {
+      font-size: 14pt;
+    }
+  }
+  #sidebar, #footer, .no-print {
+    display: none;
+  }
+}

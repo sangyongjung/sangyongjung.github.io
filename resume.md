@@ -102,6 +102,13 @@ sangyong.jung@gmail.com / +1 (217) 898-9894
 - Published in Lecture Notes in Computer Science, vol. 8527
 - Presented at HCI International 2014
 - Implemented pseudo web-service for experiment with Ruby on Rails
+- Tested Technology Acceptance Model 3 as a model to measure motivations for participations in web-based co-creation activity
+
+
+
+##### Pickt.it – Modeling and Developing a Web Service for Social Curation of Knowledge Contents
+- Published in Korea IT Service Society
+- Developed web-based contents social curations service
 
 
 

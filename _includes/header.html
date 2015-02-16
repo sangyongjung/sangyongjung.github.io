@@ -1,39 +1,36 @@
 <div class="profile">
-  <a href="/">
+  <a href="/" class="link-unstyled">
     <img src="/images/profile.jpg" alt="profile_image" class="img-circle" style="width: 80px;">
+    <h3>Sangyong Jung</h3>
   </a>
+  <p>
+    An Entrepreneur,<br>
+    Ruby on Rails Developer,<br>
+    and UX Researcher
+  </p>
 </div>
- <h3 class="profile">
-  <a href="/" class="unstyled_link">Sangyong Jung</a>
-</h3>
-
-<p>
-  An Entrepreneur,<br>
-  A Ruby on Rails Developer,<br>
-  And a UX Researcher
-</p>
 
 <hr>
 
 <ul class="nav nav-pills nav-stacked">
-  <li>
-    <a href="/">Works</a>
-  </li>
-  <li>
-    <a href="/">Skills</a>
-  </li>
-  <li>
-    <a href="/resume/">Resume</a>
-  </li>
+  {% for node in site.pages %}
+    {% if node.navigation %}
+      {% if page.url == node.url or page.category == node.title %}
+        <li class="active"><a href="{{node.permalink}}" class="active">{{node.navigation}}</a></li>
+      {% else %}
+        <li><a href="{{node.url}}">{{node.navigation}}</a></li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 </ul>
 
 <hr>
 
-<ul class="list-unstyled">
+<ul class="list-unstyled small">
   <li>
-    <small>
-      <i class="fa fa-envelope"></i> sangyong.jung@gmail.com<br/>
-    </small>
+    <a href="mailto:sangyong.jung@gmail.com" class="link-unstyled">
+      <i class="fa fa-envelope"></i> sangyong.jung@gmail.com
+    </a>
   </li>
 </ul>
 

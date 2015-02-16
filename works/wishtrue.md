@@ -10,7 +10,7 @@ category: Works
 ### Online Marketplace for Secondhanded Luxury Products
 
 Wishtrue is a web service for selling secondhanded luxury products developed with Ruby on Rails.
-Visually designed by a colleague designer, the whole service from top to bottom was developed by me as a contract developer. I was also responsible for designing database structure by reflecting client's business needs.
+Visually designed by a colleague designer, the whole service from top to bottom was developed by me as a contract developer. I was also responsible for designing the database structure by reflecting the client's business needs.
 
 Demo: [http://wishtrue.herokuapp.com/](http://wishtrue.herokuapp.com/){:target="_blank"}
 

@@ -22,7 +22,7 @@ navigation: Resume
 <h3 class="section">Startup Experience</h3>
 
 ##### Founder, CEO & Developer | Created, Seoul, Korea | Mar. 2014 - Present
-*Web service development and design consultancy*
+*Web service development and design agency*
 
 - Web development - Wishtrue Co., Ltd. (e-Commerce / http://wishtrue.herokuapp.com/)
 - Developed public website of Pine Tree Investment & Management
@@ -35,21 +35,21 @@ navigation: Resume
 - Designed interfaces for sales management system for sellers
 - Established sales process and materials
 - Managed sales of 100+ sellers
-- Organized marketing program of design competition
+- Organized marketing program for a design competition
 
 ##### Founder & CEO | Dezine.by, Seoul, Korea
 *Dezine.by - Co-creation platform that prints and sells designs uploaded by public as t-shirts*
 
 - Directed business plan and service design
 - Organized design competitions in which 100+ designers participated
-- Graduated Primer Enternship program (Korean Acceleration Program lead by founders of Inicis and Daum Communicaitons)
+- Completed Primer Enternship Program (Korean Acceleration Program lead by founders of Inicis and Daum Communicaitons)
 
 
 <h3 class="section">Work / Project</h3>
 
 ##### Programmer (Ruby on Rails) | Focus News Network, Seoul, Korea | Feb. 2014 - Apr. 2014
 - Developed e-commerce platform that supports independent deal pages for multiple brands
-- Developed video contents streaming platform using Vimeo as a video hosting backend
+- Developed video content streaming platform using Vimeo as a video hosting backend
 - Developed admin dashboard for pages management and analytics
 - Supported payment through credit card, real-time wire transfer and mobile billing
 - Installed and administrated cloud server with Ubuntu Linux
@@ -71,7 +71,7 @@ navigation: Resume
 
 ##### Determinants of Continued Participation in Web-Based Co-Creation Platforms
 - Published in Lecture Notes in Computer Science, vol. 8527
-- Presented at HCI International 2014
+- Accepted to HCI International 2014
 - Implemented pseudo web-service for experiment with Ruby on Rails
 - Tested Technology Acceptance Model 3 as a model to measure motivations for participations in web-based co-creation activity
 

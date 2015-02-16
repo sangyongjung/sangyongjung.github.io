@@ -10,17 +10,17 @@ navigation: Skills
 
 <h3 class="section">Programming Skills</h3>
 
-<div class="row">
-  <div class="col-sm-10 col-sm-offset-1">
-    <table class="table small">
+<div class="row hidden-xs">
+  <div class="col-sm-8 col-sm-offset-2">
+    <table class="table small" style="margin-top: 40px; margin-bottom: 40px;">
       <thead>
         <tr>
           <td class="col-sm-2"></td>
-          <td class="col-sm-2 text-center">Unfamiliar</td>
-          <td class="col-sm-2 text-center">Learning</td>
-          <td class="col-sm-2 text-center">Understood</td>
-          <td class="col-sm-2 text-center">Used in Projects</td>
-          <td class="col-sm-2 text-center">Experienced</td>
+          <td class="col-sm-2 text-center" style="vertical-align: middle;">Unfamiliar</td>
+          <td class="col-sm-2 text-center" style="vertical-align: middle;">Learning</td>
+          <td class="col-sm-2 text-center" style="vertical-align: middle;">Understood</td>
+          <td class="col-sm-2 text-center" style="vertical-align: middle;">Used in Projects</td>
+          <td class="col-sm-2 text-center" style="vertical-align: middle;">Experienced</td>
         </tr>
       </thead>
       <tbody>
@@ -73,15 +73,67 @@ navigation: Skills
           <td class="col-sm-2">Machine Learning</td>
           <td colspan="5" class="col-sm-10">
             <div class="progress">
-              <div class="progress-bar" role="progressbar" aria-valuemax="100" style="width: 40%; height: 60px;">
+              <div class="progress-bar" role="progressbar" aria-valuemax="100" style="width: 60%; height: 60px;">
               </div>
             </div>
           </td>
         </tr>
       </tbody>
-    </table>    
+    </table>
   </div>
 </div>
+
+<div class="visible-xs">
+  <table class="table small">
+    <thead>
+      <tr>
+        <td>Ruby on Rails</td>
+        <td>
+          <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
+           (Experienced)
+        </td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Html / CSS / jQuery</td>
+        <td>
+          <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
+           (Experienced)
+        </td>
+      </tr>
+      <tr>
+        <td>node-webkit (Desktop App)</td>
+        <td>
+          <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i>
+           (Used in Projects)
+        </td>
+      </tr>
+      <tr>
+        <td>Python</td>
+        <td>
+          <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
+           (Understood)
+        </td>
+      </tr>
+      <tr>
+        <td>Django</td>
+        <td>
+          <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
+           (Understood)
+        </td>
+      </tr>
+      <tr>
+        <td>Machine Learning</td>
+        <td>
+          <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
+           (Understood)
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 <h3 class="section">Completed Learning Materials</h3>
 

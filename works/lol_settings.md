@@ -9,7 +9,7 @@ category: Works
 
 ### League of Legends server switching application
 
-LoL Settings is a small applicaiton to enable switching server of famous game League of Legends from North America to Korea. Due to small size of Mac users and localized functionalities, Riot games do not provide offical client for OS X. Korean gamers who are Mac owners started to manually edited server setting files as a work around, and LoL Settings automated that process. About 15,000 download occured.
+LoL Settings is a simple applicaiton that enables users to switch between the North America and Korea servers of the the game, "League of Legends." Due to small number of Mac users and localized functionalities, Riot games does not provide offical client for OS X. Korean gamers who are Mac owners started to manually edit server setting files as a work around, and LoL Settings automated that process. Around 15,000 download occured.
 
 <img src="/images/works/lol_settings/lol_settings.png" alt="LoL Settings" class="img-responsive">
 

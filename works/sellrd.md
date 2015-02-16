@@ -9,7 +9,7 @@ category: Works
 
 ### Social Curation Commerce
 
-Sellrd is a web service for seller users to curate and sell products provided by vendor users. Sellers can start an online store just by selecting and curating products without any risk of holding stocks or spending money to build a commerce website.
+Sellrd is a web service that allows users become online retailers (sellers), and curate products provided by vendors of Sellrd. Sellers can start an online store just by selecting and curating products without any risk of holding stocks or spending money to build a commerce website.
 
 Demo: [http://sellrd.herokuapp.com/](http://sellrd.herokuapp.com/){:target="_blank"}
 

@@ -10,7 +10,7 @@ category: Works
 ### Web Service for Social Curation of Knowledge Contents
 
 Pickt is a knowledge contents curation service developed with Ruby on Rails.
-Motivation was to develope a contents scrapping service similar to Pocket (http://getpocket.com/) or Readability (https://readability.com/) but focused on sharing 'The list of the contents' instead of individual contents so that the package or the sequence of the contents itself could have value as a contents. (Just like blog posts about 'Must Reads')
+The motivation was to develop a content scrapping service similar to Pocket (http://getpocket.com/) or Readability (https://readability.com/) but focused on sharing a 'list' of the contents instead of individual contents. The list, a package or sequence of contents, has value as a content in itself. (Just like blog posts about 'Must Reads')
 
 Demo: [http://pickt.herokuapp.com/](http://pickt.herokuapp.com/){:target="_blank"}
 

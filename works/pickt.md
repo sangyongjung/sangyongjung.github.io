@@ -14,7 +14,7 @@ The motivation was to develop a content scrapping service similar to Pocket (htt
 
 Demo: [http://pickt.herokuapp.com/](http://pickt.herokuapp.com/){:target="_blank"}
 
-<img src="/images/works/pickt/pickt.png" alt="Pickt" class="img-responsive">
+<img src="/images/works/pickt/pickt_resized.png" alt="Pickt" class="img-responsive">
 
 <h3 class="section">Significance</h3>
 - Translated ideas to actual web service

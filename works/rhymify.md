@@ -13,7 +13,7 @@ Rhymify is a web application that analyzes the format of poems as rhyme scheme, 
 
 Demo: [http://rhymify.herokuapp.com/](http://rhymify.herokuapp.com/){:target="_blank"}
 
-<img src="/images/works/rhymify/rhymify.png" alt="Rhymify" class="img-responsive">
+<img src="/images/works/rhymify/rhymify_resized.png" alt="Rhymify" class="img-responsive">
 
 <h3 class="section">Significance</h3>
 - Applied software in an interdisciplinary project

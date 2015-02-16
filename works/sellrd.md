@@ -13,7 +13,7 @@ Sellrd is a web service that allows users become online retailers (sellers), and
 
 Demo: [http://sellrd.herokuapp.com/](http://sellrd.herokuapp.com/){:target="_blank"}
 
-<img src="/images/works/sellrd/sellrd.png" alt="Sellrd" class="img-responsive">
+<img src="/images/works/sellrd/sellrd_resized.png" alt="Sellrd" class="img-responsive">
 
 <h3 class="section">Significance</h3>
 - Translated ideas to actual web service

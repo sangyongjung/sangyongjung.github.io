@@ -14,7 +14,7 @@ Visually designed by a colleague designer, the whole service from top to bottom 
 
 Demo: [http://wishtrue.herokuapp.com/](http://wishtrue.herokuapp.com/){:target="_blank"}
 
-<img src="/images/works/wishtrue/wishtrue.png" alt="Wishtrue" class="img-responsive">
+<img src="/images/works/wishtrue/wishtrue_resized.png" alt="Wishtrue" class="img-responsive">
 
 <h3 class="section">Significance</h3>
 - Communicated and translated business requirements to structured web service

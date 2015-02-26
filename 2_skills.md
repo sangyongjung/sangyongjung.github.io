@@ -11,7 +11,7 @@ navigation: Skills
 <h3 class="section">Programming Skills</h3>
 
 <div class="row hidden-xs">
-  <div class="col-sm-8 col-sm-offset-2">
+  <div class="col-sm-10 col-sm-offset-1">
     <table class="table small" style="margin-top: 40px; margin-bottom: 40px;">
       <thead>
         <tr>

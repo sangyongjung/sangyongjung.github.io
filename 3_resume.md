@@ -7,7 +7,7 @@ navigation: Resume
 
 # Sangyong Jung
 
-##### sangyong.jung@gmail.com | +1 (217) 898-9894
+##### sangyong.jung@gmail.com
 
 
 <h3 class="section">Education</h3>

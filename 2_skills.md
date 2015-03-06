@@ -144,6 +144,7 @@ navigation: Skills
 
 ##### Machine Learning
 - [Machine Learning (Coursera) - Andrew Ng](https://www.coursera.org/course/ml){:target="_blank"}
+- [Mastering Machine Learning With scikit-learn - Gavin Hackeling](https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-scikit-learn){:target="_blank"}
 
 ##### Lean Startup
 - [The Lean Startup - Eric Ries](http://theleanstartup.com/)

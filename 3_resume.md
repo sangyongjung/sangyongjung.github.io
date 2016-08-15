@@ -60,12 +60,12 @@ navigation: Resume
 - Supported payment through credit card, real-time wire transfer and mobile billing
 - Installed and administrated cloud server with Ubuntu Linux
 
+<div style="page-break-before: always;"></div>
+
 ##### 1st Place | Nokia University Business Student UX Research Competition | Sep. 2009 - Oct. 2009
 - Analyzed mobile game user experience
 - Planned research process and guided team members with research experience
 - Won 1st place as undergraduate team among MBA, graduate, and undergraduate teams in Yonsei School of Business
-
-<div style="page-break-before: always;"></div>
 
 ##### UX Research Intern | HCI Lab, Yonsei University, Seoul, Korea | Jun. 2009 - Aug. 2009
 - Studied methodologies for UX (User Experience) research

@@ -21,17 +21,23 @@ navigation: Resume
 
 <h3 class="section">Startup Experience</h3>
 
-##### Founder, CEO & Developer | Created, Seoul, Korea | Mar. 2014 - Present
+##### Founder & Chief Innovation Officer | SENTBE, Seoul, Korea | May. 2015 - Present
+*SENTBE - Money transfer service*
+
+- Leading product team as a product manager
+- Leading research and development
+
+##### Founder, CEO & Developer | Created, Seoul, Korea | Mar. 2014 - May. 2015
 *Web service development and design agency*
 
-- Web development - Wishtrue Co., Ltd. (e-Commerce / http://wishtrue.herokuapp.com/)
+- Developed e-commerce web service of Wishtrue using Ruby on Rails
 - Developed public website of Pine Tree Investment & Management
 - Developed public website of Global Management Track
 
 ##### Co-Founder & Business Developer | Mverse Inc., Seoul, Korea | May. 2012 - Jan. 2013
 *MNOP designs - Mobile commerce platform for design products*
 
-- Attracted donation fund from government
+- Attracted government donated fund
 - Designed interfaces for sales management system for sellers
 - Established sales process and materials
 - Managed sales of 100+ sellers
@@ -63,7 +69,7 @@ navigation: Resume
 
 ##### UX Research Intern | HCI Lab, Yonsei University, Seoul, Korea | Jun. 2009 - Aug. 2009
 - Studied methodologies for UX (User Experience) research
-- Participated in KPI(Key Performance Index) project for netbook with Samsung Electronics
+- Participated in KPI (Key Performance Index) project for netbook with Samsung Electronics
 - Presented to executives of Samsung Electronics
 
 
@@ -87,7 +93,6 @@ navigation: Resume
 <h3 class="section">Skills & Expertise</h3>
 
 ##### Programming Skills
-- Proficient at Ruby on Rails
-- Comprehensively understanding MCV pattern
-- Experienced at HTML5 / CSS3 / jQuery
-- Learning Machine Learning
+- HTML5 / CSS3 / jQuery
+- Ruby on Rails
+- Python / Pandas
